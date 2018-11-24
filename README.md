@@ -1,2 +1,2 @@
 # ConstantAccelerationCalculator
-sadasf
+$ x = 5y $ is an equation
